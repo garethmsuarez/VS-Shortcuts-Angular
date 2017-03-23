@@ -1,0 +1,2818 @@
+[
+  {
+    "Shortcut": "Ctrl+Shift+B",
+    "Name": "Build.BuildSolution"
+  },
+  {
+    "Shortcut": "Ctrl+Break",
+    "Name": "Build.Cancel"
+  },
+  {
+    "Shortcut": "Ctrl+F7",
+    "Name": "Build.Compile"
+  },
+  {
+    "Shortcut": "Alt+F11",
+    "Name": "Build.RunCodeAnalysisonSolution"
+  },
+  {
+    "Shortcut": "Num -",
+    "Name": "ClassDiagram.Collapse"
+  },
+  {
+    "Shortcut": "Num +",
+    "Name": "ClassDiagram.Expand"
+  },
+  {
+    "Shortcut": "Alt+Enter",
+    "Name": "ClassViewContextMenus.ClassViewMultiselectProjectreferencesItems.Properties"
+  },
+  {
+    "Shortcut": "Shift+Alt+U",
+    "Name": "CommitAllEdits"
+  },
+  {
+    "Shortcut": "Alt+F10",
+    "Name": "Debug.ApplyCodeChanges"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+P",
+    "Name": "Debug.AttachtoProcess"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Break",
+    "Name": "Debug.BreakAll"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+B",
+    "Name": "Debug.Breakpoints"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+C",
+    "Name": "Debug.CallStack"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+F9",
+    "Name": "Debug.DeleteAllBreakpoints"
+  },
+  {
+    "Shortcut": "Alt+F2",
+    "Name": "Debug.DiagnosticsHub.Launch"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+F2",
+    "Name": "Debug.DiagnosticsHub.StopCollection"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+F2",
+    "Name": "Debug.DiagnosticTools.Show"
+  },
+  {
+    "Shortcut": "Ctrl+F9",
+    "Name": "Debug.EnableBreakpoint"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+E",
+    "Name": "Debug.ExceptionSettings"
+  },
+  {
+    "Shortcut": "Ctrl+B",
+    "Name": "Debug.FunctionBreakpoint"
+  },
+  {
+    "Shortcut": "Alt+G",
+    "Name": "Debug.GoToDisassembly"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+I",
+    "Name": "Debug.Immediate"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+M, 1",
+    "Name": "Debug.Memory1"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+M, 2",
+    "Name": "Debug.Memory2"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+M, 3",
+    "Name": "Debug.Memory3"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+M, 4",
+    "Name": "Debug.Memory4"
+  },
+  {
+    "Shortcut": "Shift+Alt+3",
+    "Name": "Debug.NavigateBackward"
+  },
+  {
+    "Shortcut": "Shift+Alt+4",
+    "Name": "Debug.NavigateForward"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+D, S",
+    "Name": "Debug.ParallelStacks"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+D, 1",
+    "Name": "Debug.ParallelWatch1"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+D, 2",
+    "Name": "Debug.ParallelWatch2"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+D, 3",
+    "Name": "Debug.ParallelWatch3"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+D, 4",
+    "Name": "Debug.ParallelWatch4"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Z",
+    "Name": "Debug.Processes"
+  },
+  {
+    "Shortcut": "Shift+F9",
+    "Name": "Debug.QuickWatch"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Q",
+    "Name": "Debug.QuickWatch"
+  },
+  {
+    "Shortcut": "Shift+Alt+P",
+    "Name": "Debug.ReattachtoProcess"
+  },
+  {
+    "Shortcut": "F5",
+    "Name": "Debug.Refresh"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+G",
+    "Name": "Debug.Registers"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+F5",
+    "Name": "Debug.Restart"
+  },
+  {
+    "Shortcut": "Ctrl+F10",
+    "Name": "Debug.RunToCursor"
+  },
+  {
+    "Shortcut": "Ctrl+B",
+    "Name": "Debug.SelectElement"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+F10",
+    "Name": "Debug.SetNextStatement"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+I",
+    "Name": "Debug.ShowLayout"
+  },
+  {
+    "Shortcut": "Alt+Num *",
+    "Name": "Debug.ShowNextStatement"
+  },
+  {
+    "Shortcut": "F5",
+    "Name": "Debug.Start"
+  },
+  {
+    "Shortcut": "Ctrl+F5",
+    "Name": "Debug.StartWithoutDebugging"
+  },
+  {
+    "Shortcut": "F11",
+    "Name": "Debug.StepInto"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+F11",
+    "Name": "Debug.StepIntoCurrentProcess"
+  },
+  {
+    "Shortcut": "Shift+F11",
+    "Name": "Debug.StepOut"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+F11",
+    "Name": "Debug.StepOutCurrentProcess"
+  },
+  {
+    "Shortcut": "F10",
+    "Name": "Debug.StepOver"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+F10",
+    "Name": "Debug.StepOverCurrentProcess"
+  },
+  {
+    "Shortcut": "Shift+F5",
+    "Name": "Debug.StopDebugging"
+  },
+  {
+    "Shortcut": "Shift+Alt+F2",
+    "Name": "Debug.StopPerformanceAnalysis"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+D, K",
+    "Name": "Debug.Tasks"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+H",
+    "Name": "Debug.Threads"
+  },
+  {
+    "Shortcut": "F9",
+    "Name": "Debug.ToggleBreakpoint"
+  },
+  {
+    "Shortcut": "Ctrl+F11",
+    "Name": "Debug.ToggleDisassembly"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+W, 1",
+    "Name": "Debug.Watch1"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+W, 2",
+    "Name": "Debug.Watch2"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+W, 3",
+    "Name": "Debug.Watch3"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+W, 4",
+    "Name": "Debug.Watch4"
+  },
+  {
+    "Shortcut": "Alt+F9, C",
+    "Name": "DebuggerContextMenus.Breakpoint.BreakpointConditions"
+  },
+  {
+    "Shortcut": "Alt+F9, L",
+    "Name": "DebuggerContextMenus.Breakpoint.BreakpointEditlabels"
+  },
+  {
+    "Shortcut": "Alt+F9, D",
+    "Name": "DebuggerContextMenus.BreakpointsWindow.Delete"
+  },
+  {
+    "Shortcut": "Alt+F9, A",
+    "Name": "DebuggerContextMenus.BreakpointsWindow.GoToDisassembly"
+  },
+  {
+    "Shortcut": "Alt+F9, S",
+    "Name": "DebuggerContextMenus.BreakpointsWindow.GoToSourceCode"
+  },
+  {
+    "Shortcut": "F9",
+    "Name": "Design.ShowHandles"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+=",
+    "Name": "Design.ZoomIn"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+-",
+    "Name": "Design.ZoomOut"
+  },
+  {
+    "Shortcut": "F8",
+    "Name": "Diff.NextDifference"
+  },
+  {
+    "Shortcut": "Shift+F8",
+    "Name": "Diff.PreviousDifference"
+  },
+  {
+    "Shortcut": "Enter",
+    "Name": "Edit.BreakLine"
+  },
+  {
+    "Shortcut": "Left Arrow",
+    "Name": "Edit.CharLeft"
+  },
+  {
+    "Shortcut": "Shift+Left Arrow",
+    "Name": "Edit.CharLeftExtend"
+  },
+  {
+    "Shortcut": "Shift+Alt+Left Arrow",
+    "Name": "Edit.CharLeftExtendColumn"
+  },
+  {
+    "Shortcut": "Right Arrow",
+    "Name": "Edit.CharRight"
+  },
+  {
+    "Shortcut": "Shift+Right Arrow",
+    "Name": "Edit.CharRightExtend"
+  },
+  {
+    "Shortcut": "Shift+Alt+Right Arrow",
+    "Name": "Edit.CharRightExtendColumn"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+C",
+    "Name": "Edit.ClearAll"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+L",
+    "Name": "Edit.ClearBookmarks"
+  },
+  {
+    "Shortcut": "Ctrl+M, Ctrl+A",
+    "Name": "Edit.CollapseAllOutlining"
+  },
+  {
+    "Shortcut": "Ctrl+M, Ctrl+S",
+    "Name": "Edit.CollapseCurrentRegion"
+  },
+  {
+    "Shortcut": "Ctrl+M, Ctrl+T",
+    "Name": "Edit.CollapseTag"
+  },
+  {
+    "Shortcut": "Ctrl+M, Ctrl+O",
+    "Name": "Edit.CollapsetoDefinitions"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+C",
+    "Name": "Edit.CommentSelection"
+  },
+  {
+    "Shortcut": "Ctrl+Space",
+    "Name": "Edit.CompleteWord"
+  },
+  {
+    "Shortcut": "Alt+Right Arrow",
+    "Name": "Edit.CompleteWord"
+  },
+  {
+    "Shortcut": "Alt+2",
+    "Name": "Edit.ContractSelection"
+  },
+  {
+    "Shortcut": "Ctrl+C",
+    "Name": "Edit.Copy"
+  },
+  {
+    "Shortcut": "Ctrl+Ins",
+    "Name": "Edit.Copy"
+  },
+  {
+    "Shortcut": "Shift+Alt+C",
+    "Name": "Edit.CreateCopyofWorkItem"
+  },
+  {
+    "Shortcut": "Ctrl+X",
+    "Name": "Edit.Cut"
+  },
+  {
+    "Shortcut": "Shift+Del",
+    "Name": "Edit.Cut"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+V",
+    "Name": "Edit.CycleClipboardRing"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Ins",
+    "Name": "Edit.CycleClipboardRing"
+  },
+  {
+    "Shortcut": "Alt+,",
+    "Name": "Edit.DecreaseFilterLevel"
+  },
+  {
+    "Shortcut": "Ctrl+Del",
+    "Name": "Edit.Delete"
+  },
+  {
+    "Shortcut": "Del",
+    "Name": "Edit.Delete"
+  },
+  {
+    "Shortcut": "Bkspce",
+    "Name": "Edit.DeleteBackwards"
+  },
+  {
+    "Shortcut": "Shift+Bkspce",
+    "Name": "Edit.DeleteBackwards"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+`",
+    "Name": "Edit.DeleteHorizontalWhiteSpace"
+  },
+  {
+    "Shortcut": "Ctrl+End",
+    "Name": "Edit.DocumentEnd"
+  },
+  {
+    "Shortcut": "End",
+    "Name": "Edit.DocumentEnd"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+End",
+    "Name": "Edit.DocumentEndExtend"
+  },
+  {
+    "Shortcut": "Shift+End",
+    "Name": "Edit.DocumentEndExtend"
+  },
+  {
+    "Shortcut": "Ctrl+Home",
+    "Name": "Edit.DocumentStart"
+  },
+  {
+    "Shortcut": "Home",
+    "Name": "Edit.DocumentStart"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Home",
+    "Name": "Edit.DocumentStartExtend"
+  },
+  {
+    "Shortcut": "Shift+Home",
+    "Name": "Edit.DocumentStartExtend"
+  },
+  {
+    "Shortcut": "F2",
+    "Name": "Edit.EditCell"
+  },
+  {
+    "Shortcut": "Ctrl+M, Ctrl+X",
+    "Name": "Edit.ExpandAllOutlining"
+  },
+  {
+    "Shortcut": "Shift+Alt+B",
+    "Name": "Edit.ExpandCollapseBaseTypeList"
+  },
+  {
+    "Shortcut": "Ctrl+M, Ctrl+E",
+    "Name": "Edit.ExpandCurrentRegion"
+  },
+  {
+    "Shortcut": "Alt+1",
+    "Name": "Edit.ExpandSelection"
+  },
+  {
+    "Shortcut": "Ctrl+F",
+    "Name": "Edit.Find"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+F",
+    "Name": "Edit.FindinFiles"
+  },
+  {
+    "Shortcut": "F3",
+    "Name": "Edit.FindNext"
+  },
+  {
+    "Shortcut": "Ctrl+F3",
+    "Name": "Edit.FindNextSelected"
+  },
+  {
+    "Shortcut": "Shift+F3",
+    "Name": "Edit.FindPrevious"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+F3",
+    "Name": "Edit.FindPreviousSelected"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+D",
+    "Name": "Edit.FormatDocument"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+F",
+    "Name": "Edit.FormatSelection"
+  },
+  {
+    "Shortcut": "Ctrl+G",
+    "Name": "Edit.GoTo"
+  },
+  {
+    "Shortcut": "Ctrl+]",
+    "Name": "Edit.GotoBrace"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+]",
+    "Name": "Edit.GotoBraceExtend"
+  },
+  {
+    "Shortcut": "Ctrl+F12",
+    "Name": "Edit.GoToDeclaration"
+  },
+  {
+    "Shortcut": "F12",
+    "Name": "Edit.GoToDefinition"
+  },
+  {
+    "Shortcut": "Ctrl+D",
+    "Name": "Edit.GoToFindCombo"
+  },
+  {
+    "Shortcut": "Ctrl+F12",
+    "Name": "Edit.GoToImplementation"
+  },
+  {
+    "Shortcut": "F8",
+    "Name": "Edit.GoToNextLocation"
+  },
+  {
+    "Shortcut": "Shift+F8",
+    "Name": "Edit.GoToPrevLocation"
+  },
+  {
+    "Shortcut": "Ctrl+M, Ctrl+H",
+    "Name": "Edit.HideSelection"
+  },
+  {
+    "Shortcut": "Alt+.",
+    "Name": "Edit.IncreaseFilterLevel"
+  },
+  {
+    "Shortcut": "Ctrl+I",
+    "Name": "Edit.IncrementalSearch"
+  },
+  {
+    "Shortcut": "Shift+Alt+Right Arrow",
+    "Name": "Edit.Indent"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+X",
+    "Name": "Edit.InsertSnippet"
+  },
+  {
+    "Shortcut": "Tab",
+    "Name": "Edit.InsertTab"
+  },
+  {
+    "Shortcut": "Ctrl+L",
+    "Name": "Edit.LineCut"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+L",
+    "Name": "Edit.LineDelete"
+  },
+  {
+    "Shortcut": "Down Arrow",
+    "Name": "Edit.LineDown"
+  },
+  {
+    "Shortcut": "Shift+Down Arrow",
+    "Name": "Edit.LineDownExtend"
+  },
+  {
+    "Shortcut": "Shift+Up Arrow",
+    "Name": "Edit.LineDownExtend"
+  },
+  {
+    "Shortcut": "Shift+Alt+Down Arrow",
+    "Name": "Edit.LineDownExtendColumn"
+  },
+  {
+    "Shortcut": "End",
+    "Name": "Edit.LineEnd"
+  },
+  {
+    "Shortcut": "Shift+End",
+    "Name": "Edit.LineEndExtend"
+  },
+  {
+    "Shortcut": "Shift+Alt+End",
+    "Name": "Edit.LineEndExtendColumn"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Enter",
+    "Name": "Edit.LineOpenBelow"
+  },
+  {
+    "Shortcut": "Home",
+    "Name": "Edit.LineStart"
+  },
+  {
+    "Shortcut": "Shift+Home",
+    "Name": "Edit.LineStartExtend"
+  },
+  {
+    "Shortcut": "Shift+Alt+Home",
+    "Name": "Edit.LineStartExtendColumn"
+  },
+  {
+    "Shortcut": "Up Arrow",
+    "Name": "Edit.LineUp"
+  },
+  {
+    "Shortcut": "Shift+Up Arrow",
+    "Name": "Edit.LineUpExtend"
+  },
+  {
+    "Shortcut": "Shift+Down Arrow",
+    "Name": "Edit.LineUpExtend"
+  },
+  {
+    "Shortcut": "Shift+Alt+Up Arrow",
+    "Name": "Edit.LineUpExtendColumn"
+  },
+  {
+    "Shortcut": "Ctrl+J",
+    "Name": "Edit.ListMembers"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+U",
+    "Name": "Edit.MakeUppercase"
+  },
+  {
+    "Shortcut": "Ctrl+Down Arrow",
+    "Name": "Edit.MoveControlDown"
+  },
+  {
+    "Shortcut": "Down Arrow",
+    "Name": "Edit.MoveControlDown"
+  },
+  {
+    "Shortcut": "Down Arrow",
+    "Name": "Edit.MoveControlDownGrid"
+  },
+  {
+    "Shortcut": "Ctrl+Left Arrow",
+    "Name": "Edit.MoveControlLeft"
+  },
+  {
+    "Shortcut": "Left Arrow",
+    "Name": "Edit.MoveControlLeft"
+  },
+  {
+    "Shortcut": "Left Arrow",
+    "Name": "Edit.MoveControlLeftGrid"
+  },
+  {
+    "Shortcut": "Ctrl+Right Arrow",
+    "Name": "Edit.MoveControlRight"
+  },
+  {
+    "Shortcut": "Right Arrow",
+    "Name": "Edit.MoveControlRight"
+  },
+  {
+    "Shortcut": "Right Arrow",
+    "Name": "Edit.MoveControlRightGrid"
+  },
+  {
+    "Shortcut": "Ctrl+Up Arrow",
+    "Name": "Edit.MoveControlUp"
+  },
+  {
+    "Shortcut": "Up Arrow",
+    "Name": "Edit.MoveControlUp"
+  },
+  {
+    "Shortcut": "Up Arrow",
+    "Name": "Edit.MoveControlUpGrid"
+  },
+  {
+    "Shortcut": "Ins",
+    "Name": "Edit.NewAccelerator"
+  },
+  {
+    "Shortcut": "Ins",
+    "Name": "Edit.NewString"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+N",
+    "Name": "Edit.NextBookmark"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+K, Ctrl+Shift+N",
+    "Name": "Edit.NextBookmarkInFolder"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Down Arrow",
+    "Name": "Edit.NextHighlightedReference"
+  },
+  {
+    "Shortcut": "Ctrl+W",
+    "Name": "Edit.NextKeyTyped"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+G",
+    "Name": "Edit.OpenFile"
+  },
+  {
+    "Shortcut": "Shift+Alt+Left Arrow",
+    "Name": "Edit.Outdent"
+  },
+  {
+    "Shortcut": "Ins",
+    "Name": "Edit.OvertypeMode"
+  },
+  {
+    "Shortcut": "PgDn",
+    "Name": "Edit.PageDown"
+  },
+  {
+    "Shortcut": "Shift+PgDn",
+    "Name": "Edit.PageDownExtend"
+  },
+  {
+    "Shortcut": "PgUp",
+    "Name": "Edit.PageUp"
+  },
+  {
+    "Shortcut": "Shift+PgUp",
+    "Name": "Edit.PageUpExtend"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Space",
+    "Name": "Edit.ParameterInfo"
+  },
+  {
+    "Shortcut": "Ctrl+V",
+    "Name": "Edit.Paste"
+  },
+  {
+    "Shortcut": "Shift+Ins",
+    "Name": "Edit.Paste"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+P",
+    "Name": "Edit.PasteParameterTip"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+-",
+    "Name": "Edit.PeekBackward"
+  },
+  {
+    "Shortcut": "Alt+F12",
+    "Name": "Edit.PeekDefinition"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+=",
+    "Name": "Edit.PeekForward"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+P",
+    "Name": "Edit.PreviousBookmark"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+K, Ctrl+Shift+P",
+    "Name": "Edit.PreviousBookmarkInFolder"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Up Arrow",
+    "Name": "Edit.PreviousHighlightedReference"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+I",
+    "Name": "Edit.QuickInfo"
+  },
+  {
+    "Shortcut": "Ctrl+Y",
+    "Name": "Edit.Redo"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Z",
+    "Name": "Edit.Redo"
+  },
+  {
+    "Shortcut": "Shift+Alt+Bkspce",
+    "Name": "Edit.Redo"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+J",
+    "Name": "Edit.RefreshRemoteReferences"
+  },
+  {
+    "Shortcut": "F5",
+    "Name": "Edit.RefreshWorkItem"
+  },
+  {
+    "Shortcut": "Del",
+    "Name": "Edit.Remove"
+  },
+  {
+    "Shortcut": "Del",
+    "Name": "Edit.RemovefromDiagram"
+  },
+  {
+    "Shortcut": "Ctrl+Del",
+    "Name": "Edit.RemoveRow"
+  },
+  {
+    "Shortcut": "Ctrl+H",
+    "Name": "Edit.Replace"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+H",
+    "Name": "Edit.ReplaceinFiles"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+I",
+    "Name": "Edit.ReverseIncrementalSearch"
+  },
+  {
+    "Shortcut": "Ctrl+Left Arrow",
+    "Name": "Edit.ScrollColumnLeft"
+  },
+  {
+    "Shortcut": "Ctrl+Right Arrow",
+    "Name": "Edit.ScrollColumnRight"
+  },
+  {
+    "Shortcut": "Ctrl+Down Arrow",
+    "Name": "Edit.ScrollLineDown"
+  },
+  {
+    "Shortcut": "Ctrl+Up Arrow",
+    "Name": "Edit.ScrollLineUp"
+  },
+  {
+    "Shortcut": "Ctrl+A",
+    "Name": "Edit.SelectAll"
+  },
+  {
+    "Shortcut": "Ctrl+W",
+    "Name": "Edit.SelectCurrentWord"
+  },
+  {
+    "Shortcut": "Esc",
+    "Name": "Edit.SelectionCancel"
+  },
+  {
+    "Shortcut": "Tab",
+    "Name": "Edit.SelectNextControl"
+  },
+  {
+    "Shortcut": "Shift+Tab",
+    "Name": "Edit.SelectPreviousControl"
+  },
+  {
+    "Shortcut": "Ctrl+=",
+    "Name": "Edit.SelectToLastGoBack"
+  },
+  {
+    "Shortcut": "Alt+'",
+    "Name": "Edit.ShowCodeLensMenu"
+  },
+  {
+    "Shortcut": "Enter",
+    "Name": "Edit.ShowTileGrid"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Down Arrow",
+    "Name": "Edit.SizeControlDown"
+  },
+  {
+    "Shortcut": "Shift+Down Arrow",
+    "Name": "Edit.SizeControlDown"
+  },
+  {
+    "Shortcut": "Shift+Down Arrow",
+    "Name": "Edit.SizeControlDownGrid"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Left Arrow",
+    "Name": "Edit.SizeControlLeft"
+  },
+  {
+    "Shortcut": "Shift+Left Arrow",
+    "Name": "Edit.SizeControlLeft"
+  },
+  {
+    "Shortcut": "Shift+Left Arrow",
+    "Name": "Edit.SizeControlLeftGrid"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Right Arrow",
+    "Name": "Edit.SizeControlRight"
+  },
+  {
+    "Shortcut": "Shift+Right Arrow",
+    "Name": "Edit.SizeControlRight"
+  },
+  {
+    "Shortcut": "Shift+Right Arrow",
+    "Name": "Edit.SizeControlRightGrid"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Up Arrow",
+    "Name": "Edit.SizeControlUp"
+  },
+  {
+    "Shortcut": "Shift+Up Arrow",
+    "Name": "Edit.SizeControlUp"
+  },
+  {
+    "Shortcut": "Shift+Up Arrow",
+    "Name": "Edit.SizeControlUpGrid"
+  },
+  {
+    "Shortcut": "Shift+Enter",
+    "Name": "Edit.SmartBreakLine"
+  },
+  {
+    "Shortcut": "Ctrl+M, Ctrl+U",
+    "Name": "Edit.StopHidingCurrent"
+  },
+  {
+    "Shortcut": "Ctrl+M, Ctrl+P",
+    "Name": "Edit.StopOutlining"
+  },
+  {
+    "Shortcut": "Alt+F3, S",
+    "Name": "Edit.StopSearch"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+S",
+    "Name": "Edit.SurroundWith"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+A",
+    "Name": "Edit.SwapAnchor"
+  },
+  {
+    "Shortcut": "Shift+Tab",
+    "Name": "Edit.TabLeft"
+  },
+  {
+    "Shortcut": "Ctrl+M, Ctrl+L",
+    "Name": "Edit.ToggleAllOutlining"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+K",
+    "Name": "Edit.ToggleBookmark"
+  },
+  {
+    "Shortcut": "Ctrl+M, Ctrl+M",
+    "Name": "Edit.ToggleOutliningExpansion"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+H",
+    "Name": "Edit.ToggleTaskListShortcut"
+  },
+  {
+    "Shortcut": "Ctrl+E, Ctrl+W",
+    "Name": "Edit.ToggleWordWrap"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+U",
+    "Name": "Edit.UncommentSelection"
+  },
+  {
+    "Shortcut": "Ctrl+Z",
+    "Name": "Edit.Undo"
+  },
+  {
+    "Shortcut": "Alt+Bkspce",
+    "Name": "Edit.Undo"
+  },
+  {
+    "Shortcut": "Ctrl+PgDn",
+    "Name": "Edit.ViewBottom"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+PgDn",
+    "Name": "Edit.ViewBottomExtend"
+  },
+  {
+    "Shortcut": "Ctrl+PgUp",
+    "Name": "Edit.ViewTop"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+PgUp",
+    "Name": "Edit.ViewTopExtend"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+W",
+    "Name": "Edit.ViewWhiteSpace"
+  },
+  {
+    "Shortcut": "Ctrl+Del",
+    "Name": "Edit.WordDeleteToEnd"
+  },
+  {
+    "Shortcut": "Ctrl+Bkspce",
+    "Name": "Edit.WordDeleteToStart"
+  },
+  {
+    "Shortcut": "Ctrl+Right Arrow",
+    "Name": "Edit.WordNext"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Right Arrow",
+    "Name": "Edit.WordNextExtend"
+  },
+  {
+    "Shortcut": "Ctrl+Left Arrow",
+    "Name": "Edit.WordPrevious"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Left Arrow",
+    "Name": "Edit.WordPreviousExtend"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+K",
+    "Name": "EditorContextMenus.CodeWindow.AddComment"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+P",
+    "Name": "EditorContextMenus.CodeWindow.EditLocalFile"
+  },
+  {
+    "Shortcut": "Alt+Enter",
+    "Name": "EditorContextMenus.CodeWindow.ExecuteInInteractive"
+  },
+  {
+    "Shortcut": "Ctrl+M, Ctrl+G",
+    "Name": "EditorContextMenus.CodeWindow.GoToView"
+  },
+  {
+    "Shortcut": "Shift+Alt+F5",
+    "Name": "EditorContextMenus.CodeWindow.PowerShell.ExecuteAsScript"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+F5",
+    "Name": "EditorContextMenus.CodeWindow.PowerShell.ExecuteAsScript"
+  },
+  {
+    "Shortcut": "Ctrl+F8",
+    "Name": "EditorContextMenus.CodeWindow.PowerShell.ExecuteSelection"
+  },
+  {
+    "Shortcut": "Ctrl+.",
+    "Name": "EditorContextMenus.CodeWindow.QuickActionsForPosition"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+G",
+    "Name": "EditorContextMenus.CodeWindow.RemoveAndSort"
+  },
+  {
+    "Shortcut": "Ctrl+R, G",
+    "Name": "EditorContextMenus.CodeWindow.RemoveAndSort"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+O",
+    "Name": "EditorContextMenus.CodeWindow.ToggleHeaderCodeFile"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+T",
+    "Name": "EditorContextMenus.CodeWindow.ViewCallHierarchy"
+  },
+  {
+    "Shortcut": "Ctrl+K, T",
+    "Name": "EditorContextMenus.CodeWindow.ViewCallHierarchy"
+  },
+  {
+    "Shortcut": "Alt+F4",
+    "Name": "File.Exit"
+  },
+  {
+    "Shortcut": "Ctrl+N",
+    "Name": "File.NewFile"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+N",
+    "Name": "File.NewProject"
+  },
+  {
+    "Shortcut": "Shift+Alt+N",
+    "Name": "File.NewWebSite"
+  },
+  {
+    "Shortcut": "Ctrl+O",
+    "Name": "File.OpenFile"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+O",
+    "Name": "File.OpenFolder"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+O",
+    "Name": "File.OpenProject"
+  },
+  {
+    "Shortcut": "Shift+Alt+O",
+    "Name": "File.OpenWebSite"
+  },
+  {
+    "Shortcut": "Ctrl+P",
+    "Name": "File.Print"
+  },
+  {
+    "Shortcut": "F2",
+    "Name": "File.Rename"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+S",
+    "Name": "File.SaveAll"
+  },
+  {
+    "Shortcut": "Ctrl+S",
+    "Name": "File.SaveSelectedItems"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+W",
+    "Name": "File.ViewinBrowser"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Down Arrow",
+    "Name": "Format.AlignBottoms"
+  },
+  {
+    "Shortcut": "Shift+F9",
+    "Name": "Format.AlignCenters"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Left Arrow",
+    "Name": "Format.AlignLefts"
+  },
+  {
+    "Shortcut": "F9",
+    "Name": "Format.AlignMiddles"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Right Arrow",
+    "Name": "Format.AlignRights"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Up Arrow",
+    "Name": "Format.AlignTops"
+  },
+  {
+    "Shortcut": "Ctrl+B",
+    "Name": "Format.Bold"
+  },
+  {
+    "Shortcut": "Ctrl+B",
+    "Name": "Format.ButtonBottom"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+F9",
+    "Name": "Format.CenterHorizontal"
+  },
+  {
+    "Shortcut": "Ctrl+F9",
+    "Name": "Format.CenterVertical"
+  },
+  {
+    "Shortcut": "Ctrl+M",
+    "Name": "Format.CheckMnemonics"
+  },
+  {
+    "Shortcut": "Ctrl+L",
+    "Name": "Format.ConverttoHyperlink"
+  },
+  {
+    "Shortcut": "F2",
+    "Name": "Format.EditText"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+L",
+    "Name": "Format.InsertBookmark"
+  },
+  {
+    "Shortcut": "Ctrl+I",
+    "Name": "Format.Italic"
+  },
+  {
+    "Shortcut": "Shift+F7",
+    "Name": "Format.SizetoContent"
+  },
+  {
+    "Shortcut": "Alt+Right Arrow",
+    "Name": "Format.SpaceAcross"
+  },
+  {
+    "Shortcut": "Alt+Left Arrow",
+    "Name": "Format.SpaceAcross"
+  },
+  {
+    "Shortcut": "Alt+Up Arrow",
+    "Name": "Format.SpaceDown"
+  },
+  {
+    "Shortcut": "Alt+Down Arrow",
+    "Name": "Format.SpaceDown"
+  },
+  {
+    "Shortcut": "Ctrl+D",
+    "Name": "Format.TabOrder"
+  },
+  {
+    "Shortcut": "Ctrl+G",
+    "Name": "Format.ToggleGuides"
+  },
+  {
+    "Shortcut": "Alt+Up Arrow",
+    "Name": "GraphView.BottomtoTop"
+  },
+  {
+    "Shortcut": "Alt+Right Arrow",
+    "Name": "GraphView.LefttoRight"
+  },
+  {
+    "Shortcut": "Alt+Left Arrow",
+    "Name": "GraphView.RighttoLeft"
+  },
+  {
+    "Shortcut": "Alt+Down Arrow",
+    "Name": "GraphView.ToptoBottom"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+F1",
+    "Name": "Help.AddandRemoveHelpContent"
+  },
+  {
+    "Shortcut": "F1",
+    "Name": "Help.F1Help"
+  },
+  {
+    "Shortcut": "Ctrl+F1",
+    "Name": "Help.ViewHelp"
+  },
+  {
+    "Shortcut": "Shift+F1",
+    "Name": "Help.WindowHelp"
+  },
+  {
+    "Shortcut": "Ctrl+A",
+    "Name": "Image.AirbrushTool"
+  },
+  {
+    "Shortcut": "Ctrl+B",
+    "Name": "Image.BrushTool"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+U",
+    "Name": "Image.CopyandOutlineSelection"
+  },
+  {
+    "Shortcut": "Ctrl+J",
+    "Name": "Image.DrawOpaque"
+  },
+  {
+    "Shortcut": "Alt+P",
+    "Name": "Image.EllipseTool"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+I",
+    "Name": "Image.EraseTool"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+P",
+    "Name": "Image.FilledEllipseTool"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+W",
+    "Name": "Image.FilledRoundedRectangleTool"
+  },
+  {
+    "Shortcut": "Ctrl+F",
+    "Name": "Image.FillTool"
+  },
+  {
+    "Shortcut": "Ctrl+H",
+    "Name": "Image.FlipHorizontal"
+  },
+  {
+    "Shortcut": "Shift+Alt+H",
+    "Name": "Image.FlipVertical"
+  },
+  {
+    "Shortcut": "Ctrl+=",
+    "Name": "Image.LargerBrush"
+  },
+  {
+    "Shortcut": "Ctrl+L",
+    "Name": "Image.LineTool"
+  },
+  {
+    "Shortcut": "Ctrl+M",
+    "Name": "Image.MagnificationTool"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+M",
+    "Name": "Image.Magnify"
+  },
+  {
+    "Shortcut": "Ins",
+    "Name": "Image.NewImageType"
+  },
+  {
+    "Shortcut": "Ctrl+]",
+    "Name": "Image.NextColor"
+  },
+  {
+    "Shortcut": "Ctrl+Right Arrow",
+    "Name": "Image.NextColor"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+]",
+    "Name": "Image.NextRightColor"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Right Arrow",
+    "Name": "Image.NextRightColor"
+  },
+  {
+    "Shortcut": "Shift+Alt+P",
+    "Name": "Image.OutlinedEllipseTool"
+  },
+  {
+    "Shortcut": "Shift+Alt+R",
+    "Name": "Image.OutlinedRectangleTool"
+  },
+  {
+    "Shortcut": "Shift+Alt+W",
+    "Name": "Image.OutlinedRoundedRectangleTool"
+  },
+  {
+    "Shortcut": "Ctrl+I",
+    "Name": "Image.PencilTool"
+  },
+  {
+    "Shortcut": "Ctrl+[",
+    "Name": "Image.PreviousColor"
+  },
+  {
+    "Shortcut": "Ctrl+Left Arrow",
+    "Name": "Image.PreviousColor"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Left Arrow",
+    "Name": "Image.PreviousRightColor"
+  },
+  {
+    "Shortcut": "Shift+Alt+S",
+    "Name": "Image.RectangleSelectionTool"
+  },
+  {
+    "Shortcut": "Alt+R",
+    "Name": "Image.RectangleTool"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+H",
+    "Name": "Image.Rotate90Degrees"
+  },
+  {
+    "Shortcut": "Alt+W",
+    "Name": "Image.RoundedRectangleTool"
+  },
+  {
+    "Shortcut": "Ctrl+.",
+    "Name": "Image.SmallBrush"
+  },
+  {
+    "Shortcut": "Ctrl+-",
+    "Name": "Image.SmallerBrush"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+.",
+    "Name": "Image.ZoomIn"
+  },
+  {
+    "Shortcut": "Ctrl+Up Arrow",
+    "Name": "Image.ZoomIn"
+  },
+  {
+    "Shortcut": "Ctrl+Down Arrow",
+    "Name": "Image.ZoomOut"
+  },
+  {
+    "Shortcut": "Shift+Enter",
+    "Name": "InteractiveConsole.BreakLine"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+C",
+    "Name": "InteractiveConsole.CopyCode"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+Enter",
+    "Name": "InteractiveConsole.CopyToInteractive"
+  },
+  {
+    "Shortcut": "Ctrl+E, Ctrl+E",
+    "Name": "InteractiveConsole.ExecuteInInteractive"
+  },
+  {
+    "Shortcut": "Ctrl+E, E",
+    "Name": "InteractiveConsole.ExecuteInInteractive"
+  },
+  {
+    "Shortcut": "Ctrl+Enter",
+    "Name": "InteractiveConsole.ExecuteOrPasteInput"
+  },
+  {
+    "Shortcut": "Alt+Down Arrow",
+    "Name": "InteractiveConsole.HistoryNext"
+  },
+  {
+    "Shortcut": "Alt+Up Arrow",
+    "Name": "InteractiveConsole.HistoryPrevious"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Down Arrow",
+    "Name": "InteractiveConsole.SearchHistoryNext"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Up Arrow",
+    "Name": "InteractiveConsole.SearchHistoryPrevious"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+.",
+    "Name": "MoveLeftEdgetotheright"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+,",
+    "Name": "MoveRightEdgetotheleft"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+.",
+    "Name": "MoveRightEdgetotheright"
+  },
+  {
+    "Shortcut": "Ins",
+    "Name": "OtherContextMenus.ColumnContext.InsertColumn"
+  },
+  {
+    "Shortcut": "Ctrl+L",
+    "Name": "OtherContextMenus.DbTableContext.Add.Column"
+  },
+  {
+    "Shortcut": "Ctrl+Break",
+    "Name": "OtherContextMenus.FSIConsoleContext.CancelInteractiveEvaluation"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+R",
+    "Name": "OtherContextMenus.FSIConsoleContext.ResetInteractiveSession"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+D",
+    "Name": "OtherContextMenus.FSIConsoleContext.StopDebugging"
+  },
+  {
+    "Shortcut": "Del",
+    "Name": "OtherContextMenus.GraphView.RemovefromWorkspace"
+  },
+  {
+    "Shortcut": "Ctrl+M, Ctrl+G",
+    "Name": "OtherContextMenus.HTMLContext.GoToController"
+  },
+  {
+    "Shortcut": "Shift+Alt+W",
+    "Name": "OtherContextMenus.HTMLContext.WrapWithdiv"
+  },
+  {
+    "Shortcut": "Shift+Enter",
+    "Name": "OtherContextMenus.InteractiveConsole.BreakLine"
+  },
+  {
+    "Shortcut": "Ctrl+C",
+    "Name": "OtherContextMenus.InteractiveConsole.CancelExecution"
+  },
+  {
+    "Shortcut": "Ctrl+Break",
+    "Name": "OtherContextMenus.InteractiveConsole.CancelExecution"
+  },
+  {
+    "Shortcut": "Ctrl+C",
+    "Name": "OtherContextMenus.InteractiveConsole.CancelExecution"
+  },
+  {
+    "Shortcut": "Ctrl+Break",
+    "Name": "OtherContextMenus.InteractiveConsole.CancelExecution"
+  },
+  {
+    "Shortcut": "Ctrl+Enter",
+    "Name": "OtherContextMenus.InteractiveConsole.ExecuteorPasteInput"
+  },
+  {
+    "Shortcut": "Alt+Down Arrow",
+    "Name": "OtherContextMenus.InteractiveConsole.HistoryNext"
+  },
+  {
+    "Shortcut": "Alt+Up Arrow",
+    "Name": "OtherContextMenus.InteractiveConsole.HistoryPrevious"
+  },
+  {
+    "Shortcut": "Alt+Right Arrow",
+    "Name": "OtherContextMenus.InteractiveConsole.SearchHistoryNext"
+  },
+  {
+    "Shortcut": "Alt+Left Arrow",
+    "Name": "OtherContextMenus.InteractiveConsole.SearchHistoryPrevious"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+J",
+    "Name": "OtherContextMenus.JSONContext.ReloadSchemas"
+  },
+  {
+    "Shortcut": "Ins",
+    "Name": "OtherContextMenus.MicrosoftDataEntityDesignContext.AddNewDiagram"
+  },
+  {
+    "Shortcut": "Alt+Down Arrow",
+    "Name": "OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.Down"
+  },
+  {
+    "Shortcut": "Alt+Up Arrow",
+    "Name": "OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.Up"
+  },
+  {
+    "Shortcut": "Ctrl+R, R",
+    "Name": "OtherContextMenus.MicrosoftDataEntityDesignContext.Refactor.Rename"
+  },
+  {
+    "Shortcut": "Shift+Del",
+    "Name": "OtherContextMenus.MicrosoftDataEntityDesignContext.RemovefromDiagram"
+  },
+  {
+    "Shortcut": "Ctrl+K, G",
+    "Name": "OtherContextMenus.Npm.InstallNewnpmPackages"
+  },
+  {
+    "Shortcut": "Ctrl+M, Ctrl+C",
+    "Name": "Project.AddContentPage"
+  },
+  {
+    "Shortcut": "Shift+Alt+A",
+    "Name": "Project.AddExistingItem"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+X",
+    "Name": "Project.ClassWizard"
+  },
+  {
+    "Shortcut": "Alt+;, Alt+C",
+    "Name": "Project.Previewchanges"
+  },
+  {
+    "Shortcut": "Alt+;, Alt+P",
+    "Name": "Project.Publishselectedfiles"
+  },
+  {
+    "Shortcut": "Alt+;, Alt+R",
+    "Name": "Project.Replaceselectedfilesfromserver"
+  },
+  {
+    "Shortcut": "Alt+Down Arrow",
+    "Name": "ProjectandSolutionContextMenus.Item.MoveDown"
+  },
+  {
+    "Shortcut": "Alt+Up Arrow",
+    "Name": "ProjectandSolutionContextMenus.Item.MoveUp"
+  },
+  {
+    "Shortcut": "Ctrl+G",
+    "Name": "QueryDesigner.GotoRow"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+J",
+    "Name": "QueryDesigner.JoinMode"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+I",
+    "Name": "Refactor.ExtractInterface"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+V",
+    "Name": "Refactor.RemoveParameters"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+R",
+    "Name": "Refactor.Rename"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+S",
+    "Name": "ReSharper.ReSharper_ApplyCodeStyle"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+/",
+    "Name": "ReSharper.ReSharper_BlockComment"
+  },
+  {
+    "Shortcut": "Ctrl+`",
+    "Name": "ReSharper.ReSharper_BookmarksBookmarksMenu"
+  },
+  {
+    "Shortcut": "Ctrl+R, S",
+    "Name": "ReSharper.ReSharper_ChangeSignature"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+S",
+    "Name": "ReSharper.ReSharper_ChangeSignature"
+  },
+  {
+    "Shortcut": "Ctrl+E, Ctrl+C",
+    "Name": "ReSharper.ReSharper_CleanupCode"
+  },
+  {
+    "Shortcut": "Ctrl+E, C",
+    "Name": "ReSharper.ReSharper_CleanupCode"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Space",
+    "Name": "ReSharper.ReSharper_CompleteCodeSmart"
+  },
+  {
+    "Shortcut": "Shift+Alt+Space",
+    "Name": "ReSharper.ReSharper_CompleteCodeTypeName"
+  },
+  {
+    "Shortcut": "Ctrl+U, K",
+    "Name": "ReSharper.ReSharper_CoverAllTestsFromSolution"
+  },
+  {
+    "Shortcut": "Ctrl+U, Ctrl+K",
+    "Name": "ReSharper.ReSharper_CoverAllTestsFromSolution"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, K",
+    "Name": "ReSharper.ReSharper_CoverApplication"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, Ctrl+Alt+K",
+    "Name": "ReSharper.ReSharper_CoverApplication"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, P",
+    "Name": "ReSharper.ReSharper_CoverStartupProject"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, Ctrl+Alt+P",
+    "Name": "ReSharper.ReSharper_CoverStartupProject"
+  },
+  {
+    "Shortcut": "Ctrl+D",
+    "Name": "ReSharper.ReSharper_DuplicateText"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, F",
+    "Name": "ReSharper.ReSharper_EditFilters"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, Ctrl+Alt+F",
+    "Name": "ReSharper.ReSharper_EditFilters"
+  },
+  {
+    "Shortcut": "Ctrl+R, E",
+    "Name": "ReSharper.ReSharper_EncapsulateField"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+E",
+    "Name": "ReSharper.ReSharper_EncapsulateField"
+  },
+  {
+    "Shortcut": "Ctrl+E, Ctrl+T",
+    "Name": "ReSharper.ReSharper_ExploreStackTrace"
+  },
+  {
+    "Shortcut": "Ctrl+E, T",
+    "Name": "ReSharper.ReSharper_ExploreStackTrace"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Right Arrow",
+    "Name": "ReSharper.ReSharper_ExtendSelection"
+  },
+  {
+    "Shortcut": "Ctrl+R, M",
+    "Name": "ReSharper.ReSharper_ExtractMethod"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+M",
+    "Name": "ReSharper.ReSharper_ExtractMethod"
+  },
+  {
+    "Shortcut": "Shift+F12",
+    "Name": "ReSharper.ReSharper_FindUsages"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+F12",
+    "Name": "ReSharper.ReSharper_FindUsagesAdvanced"
+  },
+  {
+    "Shortcut": "Alt+Ins",
+    "Name": "ReSharper.ReSharper_Generate"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Ins",
+    "Name": "ReSharper.ReSharper_GenerateFileBesides"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+A",
+    "Name": "ReSharper.ReSharper_GotoAction"
+  },
+  {
+    "Shortcut": "Alt+Home",
+    "Name": "ReSharper.ReSharper_GotoBase"
+  },
+  {
+    "Shortcut": "Ctrl+[",
+    "Name": "ReSharper.ReSharper_GotoContainingDeclaration"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+T",
+    "Name": "ReSharper.ReSharper_GotoFile"
+  },
+  {
+    "Shortcut": "Alt+\\",
+    "Name": "ReSharper.ReSharper_GotoFileMember"
+  },
+  {
+    "Shortcut": "Alt+End",
+    "Name": "ReSharper.ReSharper_GotoInheritors"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Bkspce",
+    "Name": "ReSharper.ReSharper_GotoLastEditLocation"
+  },
+  {
+    "Shortcut": "Shift+Alt+PgDn",
+    "Name": "ReSharper.ReSharper_GotoNextErrorInSolution"
+  },
+  {
+    "Shortcut": "Alt+PgDn",
+    "Name": "ReSharper.ReSharper_GotoNextHighlight"
+  },
+  {
+    "Shortcut": "Alt+Down Arrow",
+    "Name": "ReSharper.ReSharper_GotoNextMethod"
+  },
+  {
+    "Shortcut": "Shift+Alt+PgUp",
+    "Name": "ReSharper.ReSharper_GotoPrevErrorInSolution"
+  },
+  {
+    "Shortcut": "Alt+PgUp",
+    "Name": "ReSharper.ReSharper_GotoPrevHighlight"
+  },
+  {
+    "Shortcut": "Alt+Up Arrow",
+    "Name": "ReSharper.ReSharper_GotoPrevMethod"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+,",
+    "Name": "ReSharper.ReSharper_GotoRecentEdits"
+  },
+  {
+    "Shortcut": "Ctrl+,",
+    "Name": "ReSharper.ReSharper_GotoRecentFiles"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+F7",
+    "Name": "ReSharper.ReSharper_GotoRelatedFiles"
+  },
+  {
+    "Shortcut": "Shift+Alt+T",
+    "Name": "ReSharper.ReSharper_GotoSymbol"
+  },
+  {
+    "Shortcut": "Ctrl+T",
+    "Name": "ReSharper.ReSharper_GotoType"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+F11",
+    "Name": "ReSharper.ReSharper_GotoTypeDeclaration"
+  },
+  {
+    "Shortcut": "Shift+Alt+F12",
+    "Name": "ReSharper.ReSharper_GotoUsage"
+  },
+  {
+    "Shortcut": "Shift+Alt+F11",
+    "Name": "ReSharper.ReSharper_HighlightUsages"
+  },
+  {
+    "Shortcut": "Ctrl+R, I",
+    "Name": "ReSharper.ReSharper_InlineVariable"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+I",
+    "Name": "ReSharper.ReSharper_InlineVariable"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+A",
+    "Name": "ReSharper.ReSharper_InspectThis"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+F",
+    "Name": "ReSharper.ReSharper_IntroduceField"
+  },
+  {
+    "Shortcut": "Ctrl+R, F",
+    "Name": "ReSharper.ReSharper_IntroduceField"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+P",
+    "Name": "ReSharper.ReSharper_IntroduceParameter"
+  },
+  {
+    "Shortcut": "Ctrl+R, P",
+    "Name": "ReSharper.ReSharper_IntroduceParameter"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+V",
+    "Name": "ReSharper.ReSharper_IntroVariable"
+  },
+  {
+    "Shortcut": "Ctrl+R, V",
+    "Name": "ReSharper.ReSharper_IntroVariable"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+/",
+    "Name": "ReSharper.ReSharper_LineComment"
+  },
+  {
+    "Shortcut": "Ctrl+E, Ctrl+L",
+    "Name": "ReSharper.ReSharper_LiveTemplatesInsert"
+  },
+  {
+    "Shortcut": "Ctrl+E, L",
+    "Name": "ReSharper.ReSharper_LiveTemplatesInsert"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, L",
+    "Name": "ReSharper.ReSharper_LocateInCoverageTree"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, Ctrl+Alt+L",
+    "Name": "ReSharper.ReSharper_LocateInCoverageTree"
+  },
+  {
+    "Shortcut": "Shift+Alt+L",
+    "Name": "ReSharper.ReSharper_LocateInSolutionOrAssemblyExplorer"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, M",
+    "Name": "ReSharper.ReSharper_MergeSnapshots"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, Ctrl+Alt+M",
+    "Name": "ReSharper.ReSharper_MergeSnapshots"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+O",
+    "Name": "ReSharper.ReSharper_Move"
+  },
+  {
+    "Shortcut": "Ctrl+R, O",
+    "Name": "ReSharper.ReSharper_Move"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+Down Arrow",
+    "Name": "ReSharper.ReSharper_MoveDown"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+Left Arrow",
+    "Name": "ReSharper.ReSharper_MoveLeft"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+Right Arrow",
+    "Name": "ReSharper.ReSharper_MoveRight"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+Up Arrow",
+    "Name": "ReSharper.ReSharper_MoveUp"
+  },
+  {
+    "Shortcut": "Alt+`",
+    "Name": "ReSharper.ReSharper_NavigateTo"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, Ctrl+Alt+O",
+    "Name": "ReSharper.ReSharper_OpenCoverageSnapshot"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, O",
+    "Name": "ReSharper.ReSharper_OpenCoverageSnapshot"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Y",
+    "Name": "ReSharper.ReSharper_OptimizeReferences"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+V",
+    "Name": "ReSharper.ReSharper_PasteMultiple"
+  },
+  {
+    "Shortcut": "Ctrl+U, E",
+    "Name": "ReSharper.ReSharper_ProfileAllTestsFromSolutionWithMemoryUnit"
+  },
+  {
+    "Shortcut": "Ctrl+U, Ctrl+E",
+    "Name": "ReSharper.ReSharper_ProfileAllTestsFromSolutionWithMemoryUnit"
+  },
+  {
+    "Shortcut": "Ctrl+U, Ctrl+M",
+    "Name": "ReSharper.ReSharper_ProfileAllTestsInCurrentContextWithMemoryUnit"
+  },
+  {
+    "Shortcut": "Ctrl+U, M",
+    "Name": "ReSharper.ReSharper_ProfileAllTestsInCurrentContextWithMemoryUnit"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+F1",
+    "Name": "ReSharper.ReSharper_QuickDoc"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+R",
+    "Name": "ReSharper.ReSharper_RefactorThis"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Enter",
+    "Name": "ReSharper.ReSharper_ReformatCode"
+  },
+  {
+    "Shortcut": "Ctrl+R, R",
+    "Name": "ReSharper.ReSharper_Rename"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+R",
+    "Name": "ReSharper.ReSharper_Rename"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+PgDn",
+    "Name": "ReSharper.ReSharper_ResultListGoToNextLocation"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+PgUp",
+    "Name": "ReSharper.ReSharper_ResultListGoToPrevLocation"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+R",
+    "Name": "ReSharper.ReSharper_RunConfigSettings"
+  },
+  {
+    "Shortcut": "Alt+Del",
+    "Name": "ReSharper.ReSharper_SafeDelete"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+D",
+    "Name": "ReSharper.ReSharper_SafeDelete"
+  },
+  {
+    "Shortcut": "Ctrl+R, D",
+    "Name": "ReSharper.ReSharper_SafeDelete"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+F",
+    "Name": "ReSharper.ReSharper_ShowCodeStructure"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, Ctrl+Alt+B",
+    "Name": "ReSharper.ReSharper_ShowCoverageResultsBrowser"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, B",
+    "Name": "ReSharper.ReSharper_ShowCoverageResultsBrowser"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+F12",
+    "Name": "ReSharper.ReSharper_ShowFindResults"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+V",
+    "Name": "ReSharper.ReSharper_ShowInspectionWindow"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, T",
+    "Name": "ReSharper.ReSharper_ShowTestsCoveringEditorContext"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, Ctrl+Alt+T",
+    "Name": "ReSharper.ReSharper_ShowTestsCoveringEditorContext"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+D",
+    "Name": "ReSharper.ReSharper_ShowTodoExplorer"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+U",
+    "Name": "ReSharper.ReSharper_ShowUnitTestExplorer"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+T",
+    "Name": "ReSharper.ReSharper_ShowUnitTestSessions"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Left Arrow",
+    "Name": "ReSharper.ReSharper_ShrinkSelection"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+W",
+    "Name": "ReSharper.ReSharper_ShrinkSelection"
+  },
+  {
+    "Shortcut": "Ctrl+E, Ctrl+F",
+    "Name": "ReSharper.ReSharper_SilentCleanupCode"
+  },
+  {
+    "Shortcut": "Ctrl+E, F",
+    "Name": "ReSharper.ReSharper_SilentCleanupCode"
+  },
+  {
+    "Shortcut": "Ctrl+E, U",
+    "Name": "ReSharper.ReSharper_SurroundWith"
+  },
+  {
+    "Shortcut": "Ctrl+E, Ctrl+U",
+    "Name": "ReSharper.ReSharper_SurroundWith"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+C",
+    "Name": "ReSharper.ReSharper_TeamCityShowCoverageBrowser"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+L",
+    "Name": "ReSharper.ReSharper_TeamCityShowLocalChanges"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+I",
+    "Name": "ReSharper.ReSharper_TeamCityShowMyInvestigation"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+S",
+    "Name": "ReSharper.ReSharper_TeamCityShowServerChanges"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+T",
+    "Name": "ReSharper.ReSharper_TeamCityToggleFilterByCurrentSolution"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, H",
+    "Name": "ReSharper.ReSharper_ToggleHighlighting"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+K, Ctrl+Alt+H",
+    "Name": "ReSharper.ReSharper_ToggleHighlighting"
+  },
+  {
+    "Shortcut": "Ctrl+E, H",
+    "Name": "ReSharper.ReSharper_TypeHierarchyBrowse"
+  },
+  {
+    "Shortcut": "Ctrl+E, Ctrl+H",
+    "Name": "ReSharper.ReSharper_TypeHierarchyBrowse"
+  },
+  {
+    "Shortcut": "Ctrl+U, Ctrl+H",
+    "Name": "ReSharper.ReSharper_UnitTestCoverContext"
+  },
+  {
+    "Shortcut": "Ctrl+U, H",
+    "Name": "ReSharper.ReSharper_UnitTestCoverContext"
+  },
+  {
+    "Shortcut": "Ctrl+U, Ctrl+D",
+    "Name": "ReSharper.ReSharper_UnitTestDebugContext"
+  },
+  {
+    "Shortcut": "Ctrl+U, D",
+    "Name": "ReSharper.ReSharper_UnitTestDebugContext"
+  },
+  {
+    "Shortcut": "Ctrl+U, Y",
+    "Name": "ReSharper.ReSharper_UnitTestRunCurrentSession"
+  },
+  {
+    "Shortcut": "Ctrl+U, Ctrl+Y",
+    "Name": "ReSharper.ReSharper_UnitTestRunCurrentSession"
+  },
+  {
+    "Shortcut": "Ctrl+U, R",
+    "Name": "ReSharper.ReSharper_UnitTestRunFromContext"
+  },
+  {
+    "Shortcut": "Ctrl+U, Ctrl+R",
+    "Name": "ReSharper.ReSharper_UnitTestRunFromContext"
+  },
+  {
+    "Shortcut": "Ctrl+U, Ctrl+L",
+    "Name": "ReSharper.ReSharper_UnitTestRunSolution"
+  },
+  {
+    "Shortcut": "Ctrl+U, L",
+    "Name": "ReSharper.ReSharper_UnitTestRunSolution"
+  },
+  {
+    "Shortcut": "Ctrl+U, A",
+    "Name": "ReSharper.ReSharper_UnitTestSessionAppendTests"
+  },
+  {
+    "Shortcut": "Ctrl+U, Ctrl+A",
+    "Name": "ReSharper.ReSharper_UnitTestSessionAppendTests"
+  },
+  {
+    "Shortcut": "Ctrl+U, Ctrl+N",
+    "Name": "ReSharper.ReSharper_UnitTestSessionNewSession"
+  },
+  {
+    "Shortcut": "Ctrl+U, N",
+    "Name": "ReSharper.ReSharper_UnitTestSessionNewSession"
+  },
+  {
+    "Shortcut": "Ctrl+U, Ctrl+U",
+    "Name": "ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun"
+  },
+  {
+    "Shortcut": "Ctrl+U, U",
+    "Name": "ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun"
+  },
+  {
+    "Shortcut": "Alt+Enter",
+    "Name": "ReSharper_AltEnter"
+  },
+  {
+    "Shortcut": "Ctrl+0",
+    "Name": "ReSharper_BookmarksGoToBookmark0"
+  },
+  {
+    "Shortcut": "Ctrl+1",
+    "Name": "ReSharper_BookmarksGoToBookmark1"
+  },
+  {
+    "Shortcut": "Ctrl+2",
+    "Name": "ReSharper_BookmarksGoToBookmark2"
+  },
+  {
+    "Shortcut": "Ctrl+3",
+    "Name": "ReSharper_BookmarksGoToBookmark3"
+  },
+  {
+    "Shortcut": "Ctrl+4",
+    "Name": "ReSharper_BookmarksGoToBookmark4"
+  },
+  {
+    "Shortcut": "Ctrl+5",
+    "Name": "ReSharper_BookmarksGoToBookmark5"
+  },
+  {
+    "Shortcut": "Ctrl+6",
+    "Name": "ReSharper_BookmarksGoToBookmark6"
+  },
+  {
+    "Shortcut": "Ctrl+7",
+    "Name": "ReSharper_BookmarksGoToBookmark7"
+  },
+  {
+    "Shortcut": "Ctrl+8",
+    "Name": "ReSharper_BookmarksGoToBookmark8"
+  },
+  {
+    "Shortcut": "Ctrl+9",
+    "Name": "ReSharper_BookmarksGoToBookmark9"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+0",
+    "Name": "ReSharper_BookmarksToggleBookmark0"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+1",
+    "Name": "ReSharper_BookmarksToggleBookmark1"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+2",
+    "Name": "ReSharper_BookmarksToggleBookmark2"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+3",
+    "Name": "ReSharper_BookmarksToggleBookmark3"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+4",
+    "Name": "ReSharper_BookmarksToggleBookmark4"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+5",
+    "Name": "ReSharper_BookmarksToggleBookmark5"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+6",
+    "Name": "ReSharper_BookmarksToggleBookmark6"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+7",
+    "Name": "ReSharper_BookmarksToggleBookmark7"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+8",
+    "Name": "ReSharper_BookmarksToggleBookmark8"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+9",
+    "Name": "ReSharper_BookmarksToggleBookmark9"
+  },
+  {
+    "Shortcut": "Ctrl+U, I",
+    "Name": "ReSharper_CoverAllTestsFromCurrentSession"
+  },
+  {
+    "Shortcut": "Ctrl+U, Ctrl+I",
+    "Name": "ReSharper_CoverAllTestsFromCurrentSession"
+  },
+  {
+    "Shortcut": "Alt+F5",
+    "Name": "ReSharper_CurrentConfigDebugAlt"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+F5",
+    "Name": "ReSharper_CurrentConfigRunAlt"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+8",
+    "Name": "ReSharper_EnableDaemon"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+Enter",
+    "Name": "ReSharper_ExecuteDeferredRename"
+  },
+  {
+    "Shortcut": "Ctrl+Enter",
+    "Name": "ReSharper_ForceCompleteItem"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+F9",
+    "Name": "ReSharper_GlobalThrowException"
+  },
+  {
+    "Shortcut": "Shift+Alt+S",
+    "Name": "ReSharper_LocateInSnapshot"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+Space",
+    "Name": "ReSharper_ParameterInfoGoToPreviousSignature"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+[",
+    "Name": "ReSharper_SelectContainingDeclaration"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+0",
+    "Name": "ReSharper_ToggleInternal"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Bkspce",
+    "Name": "ReSharper_WindowManagerActivateRecentTool"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+F4",
+    "Name": "ReSharper_WindowManagerCloseRecentTool"
+  },
+  {
+    "Shortcut": "Ctrl+[, O",
+    "Name": "SolutionExplorer.OpenFilesFilter"
+  },
+  {
+    "Shortcut": "Ctrl+[, Ctrl+O",
+    "Name": "SolutionExplorer.OpenFilesFilter"
+  },
+  {
+    "Shortcut": "Ctrl+[, P",
+    "Name": "SolutionExplorer.PendingChangesFilter"
+  },
+  {
+    "Shortcut": "Ctrl+[, Ctrl+P",
+    "Name": "SolutionExplorer.PendingChangesFilter"
+  },
+  {
+    "Shortcut": "Ctrl+[, S",
+    "Name": "SolutionExplorer.SyncWithActiveDocument"
+  },
+  {
+    "Shortcut": "Ctrl+[, Ctrl+S",
+    "Name": "SolutionExplorer.SyncWithActiveDocument"
+  },
+  {
+    "Shortcut": "Ctrl+R, Q",
+    "Name": "SQL.FullyqualifyNames"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+Q",
+    "Name": "SQL.FullyqualifyNames"
+  },
+  {
+    "Shortcut": "Shift+Alt+R",
+    "Name": "SQL.QueryResultsRefresh"
+  },
+  {
+    "Shortcut": "Alt+Break",
+    "Name": "SQL.QueryResultsStop"
+  },
+  {
+    "Shortcut": "Ctrl+R, R",
+    "Name": "SQL.Rename"
+  },
+  {
+    "Shortcut": "F2",
+    "Name": "SQL.Rename"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+R",
+    "Name": "SQL.Rename"
+  },
+  {
+    "Shortcut": "Shift+Alt+C",
+    "Name": "SQL.SSDTSchemaCompareCompare"
+  },
+  {
+    "Shortcut": "Shift+Alt+G",
+    "Name": "SQL.SSDTSchemaCompareGenerateScript"
+  },
+  {
+    "Shortcut": "Shift+Alt+.",
+    "Name": "SQL.SSDTSchemaCompareNextChange"
+  },
+  {
+    "Shortcut": "Shift+Alt+,",
+    "Name": "SQL.SSDTSchemaComparePreviousChange"
+  },
+  {
+    "Shortcut": "Alt+Break",
+    "Name": "SQL.SSDTSchemaCompareStop"
+  },
+  {
+    "Shortcut": "Shift+Alt+U",
+    "Name": "SQL.SSDTSchemaCompareWriteUpdates"
+  },
+  {
+    "Shortcut": "Alt+Break",
+    "Name": "SQL.TSqlEditorCancelQuery"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+E",
+    "Name": "SQL.TSqlEditorExecuteQuery"
+  },
+  {
+    "Shortcut": "Ctrl+D, F",
+    "Name": "SQL.TSqlEditorResultsAsFile"
+  },
+  {
+    "Shortcut": "Ctrl+D, G",
+    "Name": "SQL.TSqlEditorResultsAsGrid"
+  },
+  {
+    "Shortcut": "Ctrl+D, T",
+    "Name": "SQL.TSqlEditorResultsAsText"
+  },
+  {
+    "Shortcut": "Ctrl+D, E",
+    "Name": "SQL.TSqlEditorShowEstimatedPlan"
+  },
+  {
+    "Shortcut": "Ctrl+D, A",
+    "Name": "SQL.TSqlEditorToggleExecutionPlan"
+  },
+  {
+    "Shortcut": "Ctrl+D, R",
+    "Name": "SQL.TSqlEditorToggleResultsPane"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Left Arrow",
+    "Name": "Table.ColumntotheLeft"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Right Arrow",
+    "Name": "Table.ColumntotheRight"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Up Arrow",
+    "Name": "Table.RowAbove"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Down Arrow",
+    "Name": "Table.RowBelow"
+  },
+  {
+    "Shortcut": "Shift+Alt+N",
+    "Name": "Team.GotoNextWorkItem"
+  },
+  {
+    "Shortcut": "Shift+Alt+P",
+    "Name": "Team.GotoPreviousWorkItem"
+  },
+  {
+    "Shortcut": "F5",
+    "Name": "Team.Refresh"
+  },
+  {
+    "Shortcut": "Ctrl+\\",
+    "Name": "Team.TeamExplorerSearch"
+  },
+  {
+    "Shortcut": "Alt+Down Arrow",
+    "Name": "TeamFoundationContextMenus.Commands.GoToTeamExplorerNextSectionContent"
+  },
+  {
+    "Shortcut": "Alt+0",
+    "Name": "TeamFoundationContextMenus.Commands.GoToTeamExplorerPageContent"
+  },
+  {
+    "Shortcut": "Alt+Up Arrow",
+    "Name": "TeamFoundationContextMenus.Commands.GoToTeamExplorerPreviousSectionContent"
+  },
+  {
+    "Shortcut": "Alt+1",
+    "Name": "TeamFoundationContextMenus.Commands.GoToTeamExplorerSection1Content"
+  },
+  {
+    "Shortcut": "Alt+2",
+    "Name": "TeamFoundationContextMenus.Commands.GoToTeamExplorerSection2Content"
+  },
+  {
+    "Shortcut": "Alt+3",
+    "Name": "TeamFoundationContextMenus.Commands.GoToTeamExplorerSection3Content"
+  },
+  {
+    "Shortcut": "Alt+4",
+    "Name": "TeamFoundationContextMenus.Commands.GoToTeamExplorerSection4Content"
+  },
+  {
+    "Shortcut": "Alt+5",
+    "Name": "TeamFoundationContextMenus.Commands.GoToTeamExplorerSection5Content"
+  },
+  {
+    "Shortcut": "Alt+6",
+    "Name": "TeamFoundationContextMenus.Commands.GoToTeamExplorerSection6Content"
+  },
+  {
+    "Shortcut": "Alt+7",
+    "Name": "TeamFoundationContextMenus.Commands.GoToTeamExplorerSection7Content"
+  },
+  {
+    "Shortcut": "Alt+8",
+    "Name": "TeamFoundationContextMenus.Commands.GoToTeamExplorerSection8Content"
+  },
+  {
+    "Shortcut": "Alt+9",
+    "Name": "TeamFoundationContextMenus.Commands.GoToTeamExplorerSection9Content"
+  },
+  {
+    "Shortcut": "Alt+Left Arrow",
+    "Name": "TeamFoundationContextMenus.Commands.TeamExplorerNavigateBackward"
+  },
+  {
+    "Shortcut": "Alt+Right Arrow",
+    "Name": "TeamFoundationContextMenus.Commands.TeamExplorerNavigateForward"
+  },
+  {
+    "Shortcut": "Alt+1",
+    "Name": "TeamFoundationContextMenus.MergeContextMenu.SetFocusonLeftWindow"
+  },
+  {
+    "Shortcut": "Alt+2",
+    "Name": "TeamFoundationContextMenus.MergeContextMenu.SetFocusonResultWindow"
+  },
+  {
+    "Shortcut": "Alt+3",
+    "Name": "TeamFoundationContextMenus.MergeContextMenu.SetFocusonRightWindow"
+  },
+  {
+    "Shortcut": "Shift+Alt+C",
+    "Name": "TeamFoundationContextMenus.MyWorkPageInProgress.TfsContextMyWorkPageCreateCopyWI"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+A",
+    "Name": "TestExplorer.DebugAllTests"
+  },
+  {
+    "Shortcut": "Ctrl+R, Ctrl+T",
+    "Name": "TestExplorer.DebugAllTestsInContext"
+  },
+  {
+    "Shortcut": "F12",
+    "Name": "TestExplorer.OpenTest"
+  },
+  {
+    "Shortcut": "Ctrl+R, L",
+    "Name": "TestExplorer.RepeatLastRun"
+  },
+  {
+    "Shortcut": "Ctrl+R, A",
+    "Name": "TestExplorer.RunAllTests"
+  },
+  {
+    "Shortcut": "Ctrl+R, T",
+    "Name": "TestExplorer.RunAllTestsInContext"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+B",
+    "Name": "Tools.CodeSnippetsManager"
+  },
+  {
+    "Shortcut": "Ctrl+/",
+    "Name": "Tools.GoToCommandLine"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+N",
+    "Name": "TSqlEditorCloneQuery"
+  },
+  {
+    "Shortcut": "Shift+Alt+M",
+    "Name": "View.AllWindows"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+N",
+    "Name": "View.ASP.NETNonvisualControls"
+  },
+  {
+    "Shortcut": "Alt+Left Arrow",
+    "Name": "View.Backward"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+W",
+    "Name": "View.BookmarkWindow"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+C",
+    "Name": "View.ClassView"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+V",
+    "Name": "View.ClassViewGoToSearchCombo"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+A",
+    "Name": "View.CommandWindow"
+  },
+  {
+    "Shortcut": "Shift+Alt+D",
+    "Name": "View.DataSources"
+  },
+  {
+    "Shortcut": "F2",
+    "Name": "View.EditLabel"
+  },
+  {
+    "Shortcut": "Ctrl+M, Ctrl+M",
+    "Name": "View.EditMaster"
+  },
+  {
+    "Shortcut": "Alt+Right Arrow",
+    "Name": "View.Forward"
+  },
+  {
+    "Shortcut": "Shift+Alt+Enter",
+    "Name": "View.FullScreen"
+  },
+  {
+    "Shortcut": "Ctrl+-",
+    "Name": "View.NavigateBackward"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+-",
+    "Name": "View.NavigateForward"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+F12",
+    "Name": "View.NextError"
+  },
+  {
+    "Shortcut": "Ctrl+PgDn",
+    "Name": "View.NextView"
+  },
+  {
+    "Shortcut": "Ctrl+K, N",
+    "Name": "View.Node.jsInteractiveWindow"
+  },
+  {
+    "Shortcut": "Ctrl+W, N",
+    "Name": "View.Notifications"
+  },
+  {
+    "Shortcut": "Ctrl+W, Ctrl+N",
+    "Name": "View.Notifications"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+J",
+    "Name": "View.ObjectBrowser"
+  },
+  {
+    "Shortcut": "Ctrl+K, Ctrl+R",
+    "Name": "View.ObjectBrowserGoToSearchCombo"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+O",
+    "Name": "View.Output"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+`",
+    "Name": "View.PowerShellInteractiveWindow"
+  },
+  {
+    "Shortcut": "F4",
+    "Name": "View.PropertiesWindow"
+  },
+  {
+    "Shortcut": "Shift+F4",
+    "Name": "View.PropertyPages"
+  },
+  {
+    "Shortcut": "Ctrl+.",
+    "Name": "View.QuickActions"
+  },
+  {
+    "Shortcut": "F5",
+    "Name": "View.Refresh"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+E",
+    "Name": "View.ResourceView"
+  },
+  {
+    "Shortcut": "Shift+Alt+F10",
+    "Name": "View.ShowSmartTag"
+  },
+  {
+    "Shortcut": "Ctrl+.",
+    "Name": "View.ShowSmartTag"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+L",
+    "Name": "View.SolutionExplorer"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Y",
+    "Name": "View.SynchronizeViews"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+X",
+    "Name": "View.Toolbox"
+  },
+  {
+    "Shortcut": "Enter",
+    "Name": "View.ViewCode"
+  },
+  {
+    "Shortcut": "F7",
+    "Name": "View.ViewCode"
+  },
+  {
+    "Shortcut": "Shift+F7",
+    "Name": "View.ViewDesigner"
+  },
+  {
+    "Shortcut": "Shift+F7",
+    "Name": "View.ViewMarkup"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+R",
+    "Name": "View.WebBrowser"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+.",
+    "Name": "View.ZoomIn"
+  },
+  {
+    "Shortcut": "Esc",
+    "Name": "Window.ActivateDocumentWindow"
+  },
+  {
+    "Shortcut": "Ctrl+Q",
+    "Name": "Window.ActivateQuickLaunch"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Q",
+    "Name": "Window.ActivateQuickLaunchPreviousCategory"
+  },
+  {
+    "Shortcut": "Ctrl+;",
+    "Name": "Window.ActivateSolutionExplorerSearch"
+  },
+  {
+    "Shortcut": "Alt+'",
+    "Name": "Window.ActivateWindowSearch"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+1",
+    "Name": "Window.ApplyWindowLayout1"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+0",
+    "Name": "Window.ApplyWindowLayout10"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+2",
+    "Name": "Window.ApplyWindowLayout2"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+3",
+    "Name": "Window.ApplyWindowLayout3"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+4",
+    "Name": "Window.ApplyWindowLayout4"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+5",
+    "Name": "Window.ApplyWindowLayout5"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+6",
+    "Name": "Window.ApplyWindowLayout6"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+7",
+    "Name": "Window.ApplyWindowLayout7"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+8",
+    "Name": "Window.ApplyWindowLayout8"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+9",
+    "Name": "Window.ApplyWindowLayout9"
+  },
+  {
+    "Shortcut": "Ctrl+F4",
+    "Name": "Window.CloseDocumentWindow"
+  },
+  {
+    "Shortcut": "Shift+Esc",
+    "Name": "Window.CloseToolWindow"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Home",
+    "Name": "Window.KeepTabOpen"
+  },
+  {
+    "Shortcut": "Ctrl+F2",
+    "Name": "Window.MovetoNavigationBar"
+  },
+  {
+    "Shortcut": "Ctrl+F6",
+    "Name": "Window.NextDocumentWindow"
+  },
+  {
+    "Shortcut": "Ctrl+Tab",
+    "Name": "Window.NextDocumentWindowNav"
+  },
+  {
+    "Shortcut": "Alt+F6",
+    "Name": "Window.NextPane"
+  },
+  {
+    "Shortcut": "F6",
+    "Name": "Window.NextSplitPane"
+  },
+  {
+    "Shortcut": "Ctrl+PgDn",
+    "Name": "Window.NextTab"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+PgDn",
+    "Name": "Window.NextTabandAddtoSelection"
+  },
+  {
+    "Shortcut": "Alt+F7",
+    "Name": "Window.NextToolWindowNav"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+F6",
+    "Name": "Window.PreviousDocumentWindow"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Tab",
+    "Name": "Window.PreviousDocumentWindowNav"
+  },
+  {
+    "Shortcut": "Shift+Alt+F6",
+    "Name": "Window.PreviousPane"
+  },
+  {
+    "Shortcut": "Shift+F6",
+    "Name": "Window.PreviousSplitPane"
+  },
+  {
+    "Shortcut": "Ctrl+PgUp",
+    "Name": "Window.PreviousTab"
+  },
+  {
+    "Shortcut": "Ctrl+Shift+Alt+PgUp",
+    "Name": "Window.PreviousTabandAddtoSelection"
+  },
+  {
+    "Shortcut": "Shift+Alt+F7",
+    "Name": "Window.PreviousToolWindowNav"
+  },
+  {
+    "Shortcut": "Alt+-",
+    "Name": "Window.ShowDockMenu"
+  },
+  {
+    "Shortcut": "Ctrl+Alt+Down Arrow",
+    "Name": "Window.ShowEzMDIFileList"
+  },
+  {
+    "Shortcut": "Shift+Alt+V",
+    "Name": "Window.Toggle"
+  }
+]

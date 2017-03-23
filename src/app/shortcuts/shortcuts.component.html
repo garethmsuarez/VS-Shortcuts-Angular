@@ -1,0 +1,10 @@
+<section>
+  <section *ngIf="isLoading && !errorMessage">
+    Loading Shortcuts...
+  </section>
+  <ul>
+    <li *ngFor="let shortcut of shortcuts">
+      {{shortcut.name}}, {{shortcut.shortcut}}
+    </li>
+  </ul>
+</section>
