@@ -19,7 +19,6 @@ export class ShortcutService {
 }
 
 function mapShortcuts(response:Response): Shortcut[]{
-  console.log(response.json());
   return response.json().map(toShortcut);
 }
 
@@ -28,7 +27,6 @@ function toShortcut(r:any): Shortcut{
     shortcut: r.Shortcut,
     name: r.Name
   });
-  console.log('Parsed Shortcut', shortcut);
   return shortcut;
 }
 
